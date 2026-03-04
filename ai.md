@@ -1,7 +1,7 @@
-# Hello, Hector Pulido is Here! 👋
+# Hector Pulido's AI projects! 👋
 
 
-`Third Clarke law; Any sufficiently advanced technology is indistinguishable from magic.`<br><em> I'm a data scientist & Indie games dev, my goal is to create technologies and experiences that are indistinguishable from magic and that change the world for the better. 🐑 ❤️</em>
+`Third Clarke law; Any sufficiently advanced technology is indistinguishable from magic.`<br><em> I'm just a simple **Mechatronic engineer**, **backend developer**, **#MachineLearning** and **#Gamedev** lover, I have delusion of **youtuber** and now **streamer**, There is no challenge big enough not to try, My code will change the **world** some day.</em>
 
 
 <p align="center">
@@ -12,45 +12,46 @@
 </p>
 
 
-## Tech Stack ⌨
-<a href="https://pequesoft.net/">
+<a href="https://twitter.com/Hector_Pulido_">
 <img align="right" height="auto" width="200" src="https://github.com/HectorPulido/HectorPulido/raw/master/img/pequesoft.png"/>
 </a>
 
-- Applied mathematics ⭐
-- Python and Flask, Django ⭐
-- Pytorch ⭐
-- Rust and WASM ⭐
-- SQL and No relational Databases
-- Linux, AWS and Docker
-- Unity3D ⭐
-- Arduino and electronics
-- ASM for Pics
 
-
-## About pequesoft 🧸
-We are a couple of indie developers who love to create video games. We love games like Potion craft, Pokemon, Coffe talk, etc. so we decided to create our own games. We are currently working on our first game. <br> <a href="https://pequesoft.net/">Check our website</a>
-
-
-## Awesome Projects 📚
+## AI Projects 🤖
 - [Youtubers toolkit  🤖 💻](https://github.com/HectorPulido/Youtubers-toolkit) 
 - [Hectorpulido  🤖 💻](https://github.com/HectorPulido/HectorPulido) 
 - [Discord bot llama  🤖](https://github.com/HectorPulido/discord-bot-LLama) 
+- [Deeplearning based twitch bot  🤖 💻](https://github.com/HectorPulido/Deeplearning-based-Twitch-bot) 
 - [Minios  🤖 💻](https://github.com/HectorPulido/minios) 
 - [Simple recomendations systems  🤖](https://github.com/HectorPulido/simple-recomendations-systems) 
 - [Asteroids like game  🤖 🎮 💻](https://github.com/HectorPulido/Asteroids-like-game) 
 - [Peque nlu  🤖](https://github.com/HectorPulido/peque-nlu) 
 - [Chatbot with voice  🤖](https://github.com/HectorPulido/chatbot-with-voice) 
 - [Evolutionary neural networks on unity for bots  🤖 🎮](https://github.com/HectorPulido/Evolutionary-Neural-Networks-on-unity-for-bots) 
+- [Godot_rl  🤖 🎮](https://github.com/HectorPulido/godot_rl) 
+- [Unityandllama2  🤖 🎮](https://github.com/HectorPulido/UnityAndLLama2) 
+- [Voice translator  🤖](https://github.com/HectorPulido/Voice-translator) 
+- [Streamlit demos  🤖](https://github.com/HectorPulido/streamlit-demos) 
+- [Godot llama2  🤖 🎮](https://github.com/HectorPulido/godot-llama2) 
+- [Nlu brain api  🤖 💻](https://github.com/HectorPulido/nlu-brain-api) 
+- [Move mouse with hands  🤖](https://github.com/HectorPulido/move-mouse-with-hands) 
+- [Owi project  🤖 🎮](https://github.com/HectorPulido/Owi-project) 
+- [Signs dataset with pytorch opencv  🤖](https://github.com/HectorPulido/signs-dataset-with-pytorch-opencv) 
+- [Image to emoji  🤖](https://github.com/HectorPulido/image-to-emoji) 
+- [Vtuber framework unity and python  🤖](https://github.com/HectorPulido/Vtuber-Framework-Unity-and-Python) 
+- [Whatsapp historial analyzer  🤖](https://github.com/HectorPulido/whatsapp-historial-analyzer) 
+- [Awesome discord bot with rust  🤖 💻](https://github.com/HectorPulido/awesome-discord-bot-with-rust) 
+- [Awesome twitter bot  🤖 💻](https://github.com/HectorPulido/Awesome-twitter-bot) 
+- [Vectorized multilayer neural network  🤖](https://github.com/HectorPulido/Vectorized-multilayer-neural-network) 
+- [Chatbot seq2seq c   🤖](https://github.com/HectorPulido/Chatbot-seq2seq-C-) 
+- [Multi layer perceptron  🤖](https://github.com/HectorPulido/Multi-layer-perceptron) 
+- [Human language toolkit chatbot  🤖](https://github.com/HectorPulido/human-language-toolkit-chatbot) 
+- [Rust markov chain chatbot  🤖 💻](https://github.com/HectorPulido/Rust-markov-chain-chatbot) 
+- [Mario level generator  🤖 🎮](https://github.com/HectorPulido/mario-level-generator) 
 
 
 
-## Latest videos 📺
-<p align="center"><a href="https://www.youtube.com/watch?v=4-snsfY1nh4" target="blank"><img                 align="center" width="200px" src="https://img.youtube.com/vi/4-snsfY1nh4/0.jpg"/></a>&nbsp;&nbsp;
-<a href="https://www.youtube.com/watch?v=QCPhLq1rH_Y" target="blank"><img                 align="center" width="200px" src="https://img.youtube.com/vi/QCPhLq1rH_Y/0.jpg"/></a>&nbsp;&nbsp;
-<a href="https://www.youtube.com/watch?v=BUORTB0ItWY" target="blank"><img                 align="center" width="200px" src="https://img.youtube.com/vi/BUORTB0ItWY/0.jpg"/></a>&nbsp;&nbsp;
-</p>
-
+<br>
 
 <br>
 
