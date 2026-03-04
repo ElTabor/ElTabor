@@ -1,76 +1,47 @@
-# Hello, Hector Pulido is Here! 👋
+# Hi, I'm Tomás Taboada 👋
 
+🎮 Unity Game Developer  
+🌐 Fullstack Web Developer  
+📍 Buenos Aires, Argentina
 
-`Third Clarke law; Any sufficiently advanced technology is indistinguishable from magic.`<br><em> I'm a data scientist & Indie games dev, my goal is to create technologies and experiences that are indistinguishable from magic and that change the world for the better. 🐑 ❤️</em>
+---
 
+## 🔍 About Me
 
-<p align="center">
-<a href="https://github.com/HectorPulido/HectorPulido/blob/master/ai.md">🤖</a>
-<a href="https://github.com/HectorPulido/HectorPulido/blob/master/gamedev.md">🎮</a>
-<a href="https://github.com/HectorPulido/HectorPulido/blob/master/blockchain.md">🔑</a>
-<a href="https://github.com/HectorPulido/HectorPulido/blob/master/backend.md">💻</a>
-</p>
+I'm a passionate developer with experience building games in Unity and web apps using modern JavaScript technologies. I enjoy creating clean, maintainable code and solving real problems with technical solutions.
 
+I'm currently focused on expanding my skills in fullstack development and building professional applications while also exploring opportunities for freelance projects.
 
-## Tech Stack ⌨
-<a href="https://pequesoft.net/">
-<img align="right" height="auto" width="200" src="https://github.com/HectorPulido/HectorPulido/raw/master/img/pequesoft.png"/>
-</a>
+---
 
-- Applied mathematics ⭐
-- Python and Flask, Django ⭐
-- Pytorch ⭐
-- Rust and WASM ⭐
-- SQL and No relational Databases
-- Linux, AWS and Docker
-- Unity3D ⭐
-- Arduino and electronics
-- ASM for Pics
+## ⚙️ Tech Stack
 
+### 🎮 Game Development
+- Unity
+- C#
 
-## About pequesoft 🧸
-We are a couple of indie developers who love to create video games. We love games like Potion craft, Pokemon, Coffe talk, etc. so we decided to create our own games. We are currently working on our first game. <br> <a href="https://pequesoft.net/">Check our website</a>
+### 🌐 Web Development
+- HTML5 / CSS3
+- JavaScript / TypeScript
+- React
+- Node.js / Express
+- SQL / NoSQL
+- MongoDB
+- Git / GitHub
+- C# / Unity
+- HacknPlan / Trello
 
+---
 
-## Awesome Projects 📚
-- [Youtubers toolkit  🤖 💻](https://github.com/HectorPulido/Youtubers-toolkit) 
-- [Hectorpulido  🤖 💻](https://github.com/HectorPulido/HectorPulido) 
-- [Discord bot llama  🤖](https://github.com/HectorPulido/discord-bot-LLama) 
-- [Minios  🤖 💻](https://github.com/HectorPulido/minios) 
-- [Simple recomendations systems  🤖](https://github.com/HectorPulido/simple-recomendations-systems) 
-- [Asteroids like game  🤖 🎮 💻](https://github.com/HectorPulido/Asteroids-like-game) 
-- [Peque nlu  🤖](https://github.com/HectorPulido/peque-nlu) 
-- [Chatbot with voice  🤖](https://github.com/HectorPulido/chatbot-with-voice) 
-- [Evolutionary neural networks on unity for bots  🤖 🎮](https://github.com/HectorPulido/Evolutionary-Neural-Networks-on-unity-for-bots) 
+## 🚀 Featured Projects
 
+Here are some projects that represent my work:
+- **[Pet Management App](https://github.com/ElTabor/tp-final-tomas-taboada)** – Fullstack app that manages pets, owners, vets and appointments.
+- **[Pokedex React App](https://github.com/ElTabor/tp-final-react-Tomas-Taboada)** – Frontend app with PokéAPI integration.
+- **[Project C.O.R.V.U.S.](https://astroriftgames.itch.io/project-corvus)** – 2D game developed as an academic project (Unfinished).
 
+---
 
-## Latest videos 📺
-<p align="center"><a href="https://www.youtube.com/watch?v=4-snsfY1nh4" target="blank"><img                 align="center" width="200px" src="https://img.youtube.com/vi/4-snsfY1nh4/0.jpg"/></a>&nbsp;&nbsp;
-<a href="https://www.youtube.com/watch?v=QCPhLq1rH_Y" target="blank"><img                 align="center" width="200px" src="https://img.youtube.com/vi/QCPhLq1rH_Y/0.jpg"/></a>&nbsp;&nbsp;
-<a href="https://www.youtube.com/watch?v=BUORTB0ItWY" target="blank"><img                 align="center" width="200px" src="https://img.youtube.com/vi/BUORTB0ItWY/0.jpg"/></a>&nbsp;&nbsp;
-</p>
+## 📫 Let’s Connect
 
-
-<br>
-
-<div align="center">
-<h3 align="center">Let's connect 😋</h3>
-</div>
-<p align="center">
-<a href="https://www.linkedin.com/in/hector-pulido-17547369/" target="blank">
-<img align="center" width="30px" alt="Hector's LinkedIn" src="https://github.com/HectorPulido/HectorPulido/blob/master/img/linkedin-icon.svg?raw=true"/></a> &nbsp; &nbsp;
-<a href="https://twitter.com/Hector_Pulido_" target="blank">
-<img align="center" width="30px" alt="Hector's Twitter" src="https://github.com/HectorPulido/HectorPulido/blob/master/img/twitter-official.svg?raw=true"/></a> &nbsp; &nbsp;
-<a href="https://www.twitch.tv/hector_pulido_" target="blank">
-<img align="center" width="30px" alt="Hector's Twitch" src="https://github.com/HectorPulido/HectorPulido/blob/master/img/twitch-icon.svg?raw=true"/></a> &nbsp; &nbsp;
-<a href="https://www.youtube.com/channel/UCS_iMeH0P0nsIDPvBaJckOw" target="blank">
-<img align="center" width="30px" alt="Hector's Youtube" src="https://github.com/HectorPulido/HectorPulido/blob/master/img/youtube-icon.svg?raw=true"/></a> &nbsp; &nbsp;
-<a href="https://pequesoft.net/" target="blank">
-<img align="center" width="30px" alt="Pequesoft website" src="https://github.com/HectorPulido/HectorPulido/blob/master/img/pequesoft-favicon.png?raw=true"/></a> &nbsp; &nbsp;
-
-</p>
-
-
-<div align="center"><em><a href="https://github.com/HectorPulido/HectorPulido/tree/master/ReadmeGenerator">* This is an autogenerated readme click here to see how was done</a></em></div>
-
+**[LinekdIn](www.linkedin.com/in/tomas-taboada) - [Email](mailto:tomastaboada27@gmail.com)**
