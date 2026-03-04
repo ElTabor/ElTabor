@@ -44,4 +44,4 @@ Here are some projects that represent my work:
 
 ## 📫 Let’s Connect
 
-**[LinekdIn](www.linkedin.com/in/tomas-taboada) - [Email](mailto:tomastaboada27@gmail.com)**
+**[LinekdIn](https://linkedin.com/in/tomas-taboada) - [Email](mailto:tomastaboada27@gmail.com)**
