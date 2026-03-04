@@ -1,22 +1,15 @@
 [
     {
         "type": "intro",
-        "data": "Hector Pulido's -category- projects! 👋"
+        "data": "Tomás Taboada's -category- projects! 👋"
     },
     {
         "type": "description",
-        "data": "`Third Clarke law; Any sufficiently advanced technology is indistinguishable from magic.`<br><em> I'm just a simple **Mechatronic engineer**, **backend developer**, **#MachineLearning** and **#Gamedev** lover, I have delusion of **youtuber** and now **streamer**, There is no challenge big enough not to try, My code will change the **world** some day.</em>"
+        "data": "I'm a passionate developer with experience building games in Unity and web apps using modern JavaScript technologies. I enjoy creating clean, maintainable code and solving real problems with technical solutions. \n I'm currently focused on expanding my skills in fullstack development and building professional applications while also exploring opportunities for freelance projects."
     },
     {
         "type": "categories",
         "data": {}
-    },
-    {
-        "type": "rightImage",
-        "data": {
-            "image": "https://github.com/HectorPulido/HectorPulido/raw/master/img/pequesoft.png",
-            "link": "https://twitter.com/Hector_Pulido_"
-        }
     },
     {
         "type": "awesomeProjects",
@@ -35,36 +28,20 @@
     {
         "type": "space",
         "data": {}
-    },
+    },  
     {
         "type": "social",
         "data": {
             "title": "@<div align=\"center\">\n<h3 align=\"center\">Let's connect 😋</h3>\n</div>",
             "social": [
                 {
-                    "alt": "Hector's LinkedIn",
-                    "url": "https://www.linkedin.com/in/hector-pulido-17547369/",
+                    "alt": "Tomás' LinkedIn",
+                        "url": "www.linkedin.com/in/tomas-taboada",
                     "image": "https://github.com/HectorPulido/HectorPulido/blob/master/img/linkedin-icon.svg?raw=true"
                 },
                 {
-                    "alt": "Hector's Twitter",
-                    "url": "https://twitter.com/Hector_Pulido_",
-                    "image": "https://github.com/HectorPulido/HectorPulido/blob/master/img/twitter-official.svg?raw=true"
-                },
-                {
-                    "alt": "Hector's Twitch",
-                    "url": "https://www.twitch.tv/hector_pulido_",
-                    "image": "https://github.com/HectorPulido/HectorPulido/blob/master/img/twitch-icon.svg?raw=true"
-                },
-                {
-                    "alt": "Hector's Youtube",
-                    "url": "https://www.youtube.com/channel/UCS_iMeH0P0nsIDPvBaJckOw",
-                    "image": "https://github.com/HectorPulido/HectorPulido/blob/master/img/youtube-icon.svg?raw=true"
-                },
-                {
-                    "alt": "Pequesoft website",
-                    "url": "https://pequesoft.net/",
-                    "image": "https://github.com/HectorPulido/HectorPulido/blob/master/img/pequesoft-favicon.png?raw=true"
+                    "alt": "Tomás' email",
+                    "url": "mailto:tomastaboada27@gmail.com"
                 }
             ]
         }
