@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm Tomás Taboada 👋
 
-<!--
-**ElTabor/ElTabor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎮 Unity Game Developer  
+🌐 Junior Fullstack Developer (React + Node.js)  
+📍 Buenos Aires, Argentina  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+
+**Game Development**
+- Unity
+- C#
+
+**Web Development**
+- JavaScript/TypeScript
+- React (Vite)
+- Node.js
+- Express
+- MongoDB
+- MySQL
+
+**Tools**
+- Git
+- Postman
+- HacknPlan/Trello
+
+---
+
+## 📌 Featured Projects
+
+🔹 Slash 'Em Out!
+🔹 Project C.O.R.V.U.S.
+🔹 Pet Management REST API  
+🔹 Pokedex React App  
+
+---
+
+## 📫 Contact
+
+- LinkedIn: www.linkedin.com/in/tomas-taboada
+- Email: tomastaboada27@gmail.com
